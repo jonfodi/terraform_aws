@@ -1,3 +1,11 @@
+# goal
+
+recreate vercel
+my friend is convinced vercel is magic
+i told him theyre managing a shit ton of lambda functions
+so i built this to prove to him you can wrap terraform to create lambdas programatically
+hardest part of this is setting up aws lol
+
 # set up AWS user for terraform use
 
 (base) ~/Desktop/PROJECTS/VERCEL> cat ~/.aws/credentials
